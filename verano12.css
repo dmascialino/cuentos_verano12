@@ -1,0 +1,12 @@
+.imagewrapperhi {
+    height:99%;
+    width:100%;
+    text-align:center;
+    page-break-inside:avoid;
+}
+.imagewrapperhi img {
+    display:inline-block;
+    height:100%;
+    margin:0 auto;
+}
+
